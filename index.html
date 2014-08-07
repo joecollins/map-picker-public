@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>MapSelect - D3</title>
+
+    <!-- Bootstrap -->
+    <link href="./assets/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- My CSS -->
+    <link href="./assets/css/mystyle.css" rel="stylesheet">
+  </head>
+  <body>
+  <div id="map"></div>
+  <div class="row mapselect-outputrow">
+    <div class="col-md-12">
+      <div class="mapselect-country">
+        <h1>Click on a country</h1>
+      </div>
+      <div class="mapselect-quantity">
+        
+      </div>
+    </div>
+    <div class="col-md-12 mapselect-table mapselect-hidden">
+      <table class="table table-striped">
+        <thead>
+          <tr>
+            <th><div class="mapselect-productheader">Product Name</div></th>
+            <th><div class="mapselect-priceheader">Price</div></th>
+            <th><div class="mapselect-countrylistheader">Country</div></th>
+            <th><div class="mapselect-skuheader">Sku</div></th>
+            <th><div class="mapselect-buyheader">Buy</div></th>
+          </tr>
+        </thead>
+        <tbody class="mapselect-selectedcountry">
+
+        </tbody>
+      </table>
+    </div>
+  </div>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+    <!--Bootstrap-->
+    <script src="./assets/js/bootstrap.min.js"></script>
+
+    <!-- d3 & datamaps map files & Topojson -->
+    <script src="./assets/js/d3.js"></script>  
+    <script src="./assets/js/topojson.v1.min.js"></script>  
+    <script src="./assets/shapefiles/datamaps.world.min.js"></script>  
+
+    <!-- mapselect -->
+    <script src="./assets/js/mapselect.js"></script>    
+
+  </body>
+</html>

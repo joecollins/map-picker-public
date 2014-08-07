@@ -1,0 +1,3352 @@
+[
+  {
+    "sku":"UK-ANP-50-SD-001",
+    "country":"Great Britain",
+    "map_format":"1:50k",
+    "provider":"Ordnance Survey ",
+    "name":"National Parks - Complete Collection 1:50k",
+    "price":20,
+    "enabled":1,
+    "url_key":"https://satmap.com/national-parks-complete-collection-1-50k.html"
+  },
+  {
+    "sku":"UK-REG-50-SD-001",
+    "country":"Great Britain",
+    "map_format":"1:50k",
+    "provider":"Ordnance Survey ",
+    "name":"Wales 1:50k",
+    "price":15,
+    "enabled":1,
+    "url_key":"https://satmap.com/wales-1-50k.html"
+  },
+  {
+    "sku":"UK-REG-50-SD-002",
+    "country":"Great Britain",
+    "map_format":"1:50k",
+    "provider":"Ordnance Survey ",
+    "name":"South West England 1:50k",
+    "price":15,
+    "enabled":1,
+    "url_key":"https://satmap.com/south-west-england-1-50k.html"
+  },
+  {
+    "sku":"UK-REG-50-SD-004",
+    "country":"Great Britain",
+    "map_format":"1:50k",
+    "provider":"Ordnance Survey ",
+    "name":"Central England 1:50k",
+    "price":19.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/central-england-1-50k.html"
+  },
+  {
+    "sku":"UK-REG-50-SD-005",
+    "country":"Great Britain",
+    "map_format":"1:50k",
+    "provider":"Ordnance Survey ",
+    "name":"Eastern England 1:50k",
+    "price":15,
+    "enabled":1,
+    "url_key":"https://satmap.com/eastern-england-1-50k.html"
+  },
+  {
+    "sku":"UK-REG-50-SD-006",
+    "country":"Great Britain",
+    "map_format":"1:50k",
+    "provider":"Ordnance Survey ",
+    "name":"Northern England 1:50k",
+    "price":15.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/northern-england-1-50k.html"
+  },
+  {
+    "sku":"UK-REG-50-SD-007",
+    "country":"Great Britain",
+    "map_format":"1:50k",
+    "provider":"Ordnance Survey ",
+    "name":"Lowlands & Borders 1:50k",
+    "price":15.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/lowlands-borders-1-50k.html"
+  },
+  {
+    "sku":"UK-REG-50-SD-008",
+    "country":"Great Britain",
+    "map_format":"1:50k",
+    "provider":"Ordnance Survey ",
+    "name":"Central Scotland 1:50k",
+    "price":15,
+    "enabled":1,
+    "url_key":"https://satmap.com/central-scotland-1-50k.html"
+  },
+  {
+    "sku":"UK-REG-50-SD-009",
+    "country":"Great Britain",
+    "map_format":"1:50k",
+    "provider":"Ordnance Survey ",
+    "name":"North West Scotland 1:50k",
+    "price":15,
+    "enabled":1,
+    "url_key":"https://satmap.com/north-west-scotland-1-50k.html"
+  },
+  {
+    "sku":"UK-REG-50-SD-010",
+    "country":"Great Britain",
+    "map_format":"1:50k",
+    "provider":"Ordnance Survey ",
+    "name":"North East Scotland 1:50k",
+    "price":15,
+    "enabled":1,
+    "url_key":"https://satmap.com/north-east-scotland-1-50k.html"
+  },
+  {
+    "sku":"UK-NP-PREM-SD-001-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Lake District 1:25k & 1:50k",
+    "price":21.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/lake-district-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NP-PREM-SD-002-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Peak District 1:25k & 1:50k",
+    "price":18.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/peak-district-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NP-PREM-SD-003-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Yorkshire Dales 1:25k & 1:50k",
+    "price":20,
+    "enabled":1,
+    "url_key":"https://satmap.com/yorkshire-dales-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NP-PREM-SD-004-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Snowdonia 1:25k & 1:50k",
+    "price":23.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/snowdonia-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NP-PREM-SD-005-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Dartmoor & Exmoor 1:25k & 1:50k",
+    "price":19.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/dartmoor-exmoor-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NP-PREM-SD-007-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Central Highlands 1:25k & 1:50k",
+    "price":25,
+    "enabled":1,
+    "url_key":"https://satmap.com/central-highlands-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NP-PREM-SD-008-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"South Highlands 1:25k & 1:50k",
+    "price":25.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/south-highlands-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NP-PREM-SD-009-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Isle of Skye 1:25k & 1:50k",
+    "price":20,
+    "enabled":1,
+    "url_key":"https://satmap.com/isle-of-skye-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NP-PREM-SD-010-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Cairngorms 1:25k & 1:50k",
+    "price":35,
+    "enabled":1,
+    "url_key":"https://satmap.com/cairngorms-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NP-PREM-SD-011-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Ben Nevis/Glencoe 1:25k & 1:50k",
+    "price":18.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/ben-nevis-glencoe-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NP-PREM-SD-012-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Loch Lomond & Trossachs 1:25k & 1:50k",
+    "price":20.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/loch-lomond-trossachs-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NP-PREM-SD-013-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Rannoch & Loch Tay 1:25k & 1:50k",
+    "price":20,
+    "enabled":1,
+    "url_key":"https://satmap.com/rannoch-loch-tay-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NP-PREM-SD-014-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Northumberland 1:25k & 1:50k",
+    "price":17.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/northumberland-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NP-PREM-SD-015-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"North Yorkshire Moors 1:25k & 1:50k",
+    "price":19.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/north-yorkshire-moors-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NP-PREM-SD-016-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Brecon Beacons & Pembroke Coast 1:25k & 1:50k",
+    "price":25,
+    "enabled":1,
+    "url_key":"https://satmap.com/brecon-beacons-pembroke-coast-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NP-PREM-SD-017-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Cotswolds 1:25k & 1:50k",
+    "price":23.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/cotswolds-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NP-PREM-SD-018-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"New Forest & South Downs 1:25k & 1:50k",
+    "price":23.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/new-forest-south-downs-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NP-PREM-SD-019-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Norfolk Broads 1:25k & 1:50k",
+    "price":18.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/norfolk-broads-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NP-PREM-SD-020-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"National Forest 1:25k & 1:50k",
+    "price":15.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/national-forest-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NT-PREM-SD-001-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Pennine Way 1:25k & 1:50k",
+    "price":20.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/pennine-way-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NT-PREM-SD-002-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Coast to Coast Walk 1:25k & 1:50k",
+    "price":18.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/coast-to-coast-walk-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NT-PREM-SD-003-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Cotswold Way 1:25k & 1:50k",
+    "price":13.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/cotswold-way-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NT-PREM-SD-004-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Cleveland Way 1:25k & 1:50k",
+    "price":14.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/cleveland-way-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NT-PREM-SD-005-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"South West Coast Path (Pt 1: Minehead to Falmouth) 1:25k & 1:50k",
+    "price":17.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/south-west-coast-path-pt-1-minehead-to-falmouth-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NT-PREM-SD-006-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"South West Coast Path (Pt 2: Falmouth to Poole) 1:25k & 1:50k",
+    "price":16.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/south-west-coast-path-pt-2-falmouth-to-poole-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NT-PREM-SD-007-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Thames Path 1:25k & 1:50k",
+    "price":16.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/thames-path-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NT-PREM-SD-008-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Offa's Dyke Path 1:25k & 1:50k",
+    "price":16.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/offa-s-dyke-path-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NT-PREM-SD-009-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"North Downs way 1:25k & 1:50k",
+    "price":17.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/north-downs-way-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NT-PREM-SD-010-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"South Downs Way 1:25k & 1:50k",
+    "price":15,
+    "enabled":1,
+    "url_key":"https://satmap.com/south-downs-way-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NT-PREM-SD-011-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Glyndwr 1:25k & 1:50k",
+    "price":15,
+    "enabled":1,
+    "url_key":"https://satmap.com/glyndwr-s-way-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NT-PREM-SD-012-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Hadrian 1:25k & 1:50k",
+    "price":13.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/hadrian-s-wall-path-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NT-PREM-SD-013-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Ridgeway 1:25k & 1:50k",
+    "price":14.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/ridgeway-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NT-PREM-SD-014-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Pembrokeshire Coast Path 1:25k & 1:50k",
+    "price":14.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/pembrokeshire-coast-path-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NT-PREM-SD-015-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Peddars Way & Norfolk Coast Path 1:25k & 1:50k",
+    "price":12.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/peddars-way-norfolk-coast-path-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NT-PREM-SD-016-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Yorkshire Wolds Way 1:25k & 1:50k",
+    "price":12.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/yorkshire-wolds-way-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NT-PREM-SD-017-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"West Highland Way 1:25k & 1:50k",
+    "price":14.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/west-highland-way-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-GB-50-SD-001",
+    "country":"Great Britain",
+    "map_format":"1:50k",
+    "provider":"Ordnance Survey ",
+    "name":"Great Britain (North) 1:50k",
+    "price":41.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/great-britain-north-1-50k.html"
+  },
+  {
+    "sku":"UK-GB-50-SD-002",
+    "country":"Great Britain",
+    "map_format":"1:50k",
+    "provider":"Ordnance Survey ",
+    "name":"Great Britain (Central) 1:50k",
+    "price":41.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/great-britain-central-1-50k.html"
+  },
+  {
+    "sku":"UK-GB-50-SD-003",
+    "country":"Great Britain",
+    "map_format":"1:50k",
+    "provider":"Ordnance Survey ",
+    "name":"Great Britain (South) 1:50k",
+    "price":41.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/great-britain-south-1-50k.html"
+  },
+  {
+    "sku":"UK-GB-50-SD-004",
+    "country":"Great Britain",
+    "map_format":"1:50k",
+    "provider":"Ordnance Survey ",
+    "name":"Great Britain (Whole) 1:50k",
+    "price":83.3333,
+    "enabled":1,
+    "url_key":"https://satmap.com/great-britain-whole-1-50k.html"
+  },
+  {
+    "sku":"UK-SC-25K-30W-30H",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"GB Site Centred 30km x 30km",
+    "price":16.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-extra-small-30km-x-30km-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-001",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Bedfordshire 1:25K",
+    "price":16.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/bedfordshire-1-25k.html"
+  },
+  {
+    "sku":"UK-SC-25K-60W-60H",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"GB Site Centred 60km x 60km",
+    "price":29.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-small-60km-x-60km-1-25k.html"
+  },
+  {
+    "sku":"UK-SC-25K-90W-90H",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"GB Site Centred 90km x 90km",
+    "price":45.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-medium-90km-x-90km-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-002",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Berkshire 1:25K",
+    "price":19.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/berkshire-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-003",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Buckinghamshire 1:25K",
+    "price":20.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/buckinghamshire-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-004",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Cambridgeshire 1:25K",
+    "price":25.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/cambridgeshire-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-005",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Cheshire 1:25K",
+    "price":21.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/cheshire-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-006",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Cornwall and Isles of Scilly 1:25K",
+    "price":27.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/cornwall-and-isles-of-scilly-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-007",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"County Durham & Tyne and Wear 1:25K",
+    "price":27.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/county-durham-tyne-and-wear-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-008",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Cumbria (North) 1:25K",
+    "price":20.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/cumbria-north-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-009",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Cumbria (Central) 1:25K",
+    "price":22.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/cumbria-central-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-010",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Cumbria (South) 1:25K",
+    "price":21.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/cumbria-south-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-011",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Derbyshire 1:25K",
+    "price":23.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/derbyshire-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-012",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Devon (North) 1:25K",
+    "price":30,
+    "enabled":1,
+    "url_key":"https://satmap.com/devon-north-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-013",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Devon (South) 1:25K",
+    "price":25.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/devon-south-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-015",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Dorset 1:25K",
+    "price":23.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/dorset-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-016",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"East Sussex 1:25K",
+    "price":19.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/east-sussex-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-017",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Essex 1:25K",
+    "price":27.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/essex-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-018",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Gloucestershire 1:25K",
+    "price":26.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/gloucestershire-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-019",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Greater London 1:25K",
+    "price":19.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/greater-london-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-028",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Norfolk 1:25K",
+    "price":35,
+    "enabled":1,
+    "url_key":"https://satmap.com/norfolk-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-029",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Northamptonshire 1:25K",
+    "price":22.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/northamptonshire-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-030",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Northumberland 1:25K",
+    "price":34.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/northumberland-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-031",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"North Yorkshire (West) 1:25K",
+    "price":30.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/north-yorkshire-west-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-032",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"North Yorkshire (East) 1:25K",
+    "price":27.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/north-yorkshire-east-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-033",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Nottinghamshire 1:25K",
+    "price":21.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/nottinghamshire-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-034",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Oxfordshire 1:25K",
+    "price":24.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/oxfordshire-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-035",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Staffordshire 1:25K",
+    "price":27.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/staffordshire-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-036",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Somerset 1:25K",
+    "price":30.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/somerset-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-040",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Shropshire 1:25K",
+    "price":28.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/shropshire-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-041",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Suffolk 1:25K",
+    "price":29.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/suffolk-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-042",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Surrey 1:25K",
+    "price":20.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/surrey-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-043",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Warwickshire 1:25K",
+    "price":22.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/warwickshire-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-044",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"West Sussex 1:25K",
+    "price":20,
+    "enabled":1,
+    "url_key":"https://satmap.com/west-sussex-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-045",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Wiltshire 1:25K",
+    "price":27.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/wiltshire-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-046",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Gwynedd & Anglesey 1:25K",
+    "price":26.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/gwynedd-anglesey-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-047",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Clwyd 1:25K",
+    "price":25.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/clwyd-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-048",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Powys 1:25K",
+    "price":36.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/powys-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-049",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Gwent 1:25K",
+    "price":19.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/gwent-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-050",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Glamorgan 1:25K",
+    "price":24.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/glamorgan-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-051",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Dyfed 1:25K",
+    "price":37.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/dyfed-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-052",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Caithness / John O'Groats 1:25K",
+    "price":18.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/caithness-john-o-groats-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-053",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Sutherland / Cape Wrath 1:25K",
+    "price":35.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/sutherland-cape-wrath-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-058",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Aberdeenshire 1:25K",
+    "price":36.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/aberdeenshire-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-059",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Angus / Deeside 1:25K",
+    "price":25.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/angus-deeside-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-062",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Argyll & Bute (North) 1:25K",
+    "price":27.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/argyll-bute-north-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-063",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Argyll & Bute (South) 1:25K",
+    "price":32.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/argyll-bute-south-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-064",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Ayrshire 1:25K",
+    "price":25,
+    "enabled":1,
+    "url_key":"https://satmap.com/ayrshire-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-069",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Dumfries and Galloway (West) 1:25K",
+    "price":25.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/dumfries-and-galloway-west-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-071",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"",
+    "name":"Orkney & Shetland Islands 1:25K",
+    "price":25,
+    "enabled":1,
+    "url_key":"https://satmap.com/orkney-shetland-islands-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-072",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Devon (Whole) 1:25K",
+    "price":41.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/devon-whole-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-073",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"North Yorkshire (Whole) 1:25K",
+    "price":46.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/north-yorkshire-whole.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-020",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Hampshire & Isle of Wight 1:25K",
+    "price":30.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/hampshire-isle-of-wight-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-021",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Herefordshire & Worcestershire 1:25K",
+    "price":30,
+    "enabled":1,
+    "url_key":"https://satmap.com/herefordshire-worcestershire-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-022",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Hertfordshire  1:25K",
+    "price":19.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/hertfordshire-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-023",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Kent 1:25K",
+    "price":29.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/kent-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-024",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Lancashire, Greater Manchester & Merseyside 1:25K",
+    "price":35.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/lancashire-greater-manchester-merseyside-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-025",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Leicestershire & Rutland 1:25K",
+    "price":23.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/leicestershire-rutland-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-026",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Lincolnshire (North) 1:25K",
+    "price":27.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/lincolnshire-north-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-027",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Lincolnshire (South) 1:25K",
+    "price":26.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/lincolnshire-south-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-066",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Lothian and Fife 1:25K",
+    "price":30,
+    "enabled":1,
+    "url_key":"https://satmap.com/lothian-and-fife-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-054",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Wester Ross/The Black Isle 1:25k",
+    "price":35.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/wester-ross-the-black-isle-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-055",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Kyle of Lochalsh / Fort William 1:25K",
+    "price":35.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/kyle-of-lochalsh-fort-william-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-056",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"East Inverness-shire 1:25k",
+    "price":33.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/east-inverness-shire.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-057",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Moray / Speyside 1:25K",
+    "price":25.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/moray-speyside-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-060",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Perth & Kinross (North) 1:25K",
+    "price":27.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/perth-kinross-north-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-061",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Perth & Kinross (South) 1:25K",
+    "price":20,
+    "enabled":1,
+    "url_key":"https://satmap.com/perth-kinross-south-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-065",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Glasgow / Stirling 1:25K",
+    "price":34.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/glasgow-stirling-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-067",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"South Lanarkshire 1:25K",
+    "price":20,
+    "enabled":1,
+    "url_key":"https://satmap.com/south-lanarkshire-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-068",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Borders 1:25K",
+    "price":34.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/borders-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-070",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Dumfries and Galloway (East) 1:25K",
+    "price":25.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/dumfries-and-galloway-east-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-075",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Skye & Outer Hebrides 1:25K",
+    "price":35,
+    "enabled":1,
+    "url_key":"https://satmap.com/skye-outer-hebrides-1-25k.html"
+  },
+  {
+    "sku":"UK-CTY-AZ-14-SD-GL",
+    "country":"Great Britain",
+    "map_format":"1:14k",
+    "provider":"AZ",
+    "name":"AZ Greater London 1,14K",
+    "price":16.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/az-greater-london.html"
+  },
+  {
+    "sku":"UK-CTY-25-SD-074",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Cumbria (Whole) 1:25k",
+    "price":43.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/cumbria-whole.html"
+  },
+  {
+    "sku":"UK-SC-PLUS50",
+    "country":"Great Britain",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"GB Site centred Upgrade (Ordnance Survey 1:50k)",
+    "price":8.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/premium-site-centred-upgrade.html"
+  },
+  {
+    "sku":"UK-CTY-AZ-14-SD-002",
+    "country":"Great Britain",
+    "map_format":"1:14k",
+    "provider":"AZ",
+    "name":"AZ Edinburgh & Glasgow 1,14k",
+    "price":21.73,
+    "enabled":1,
+    "url_key":"https://satmap.com/az-edinburgh-glasgow.html"
+  },
+  {
+    "sku":"UK-CTY-AZ-14-SD-004",
+    "country":"Great Britain",
+    "map_format":"1:14k",
+    "provider":"AZ",
+    "name":"AZ West Yorkshire 1,14k",
+    "price":21.73,
+    "enabled":1,
+    "url_key":"https://satmap.com/az-west-yorkshire.html"
+  },
+  {
+    "sku":"UK-CTY-AZ-14-SD-005",
+    "country":"Great Britain",
+    "map_format":"1:14k",
+    "provider":"AZ",
+    "name":"AZ South Yorkshire 1,14k",
+    "price":21.73,
+    "enabled":1,
+    "url_key":"https://satmap.com/az-south-yorkshire.html"
+  },
+  {
+    "sku":"UK-CTY-AZ-14-SD-007",
+    "country":"Great Britain",
+    "map_format":"1:14k",
+    "provider":"AZ",
+    "name":"AZ Birmingham 1,14k",
+    "price":21.73,
+    "enabled":1,
+    "url_key":"https://satmap.com/az-birmingham.html"
+  },
+  {
+    "sku":"UK-CTY-AZ-14-SD-006",
+    "country":"Great Britain",
+    "map_format":"1:14k",
+    "provider":"AZ",
+    "name":"AZ Aberdeen 1,14k",
+    "price":21.73,
+    "enabled":1,
+    "url_key":"https://satmap.com/az-aberdeen.html"
+  },
+  {
+    "sku":"UK-CTY-AZ-14-SD-003",
+    "country":"Great Britain",
+    "map_format":"1:14k",
+    "provider":"AZ",
+    "name":"AZ Greater Manchester 1,14k",
+    "price":21.73,
+    "enabled":1,
+    "url_key":"https://satmap.com/az-greater-manchester.html"
+  },
+  {
+    "sku":"UK-CTY-AZ-CC-SD-01",
+    "country":"Great Britain",
+    "map_format":"1:14k",
+    "provider":"AZ",
+    "name":"Cycle City AZ London 1,14k",
+    "price":21.73,
+    "enabled":1,
+    "url_key":"https://satmap.com/cycle-city-az-london.html"
+  },
+  {
+    "sku":"AT-CY-50-SD-001",
+    "country":"Austria",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Austria Whole 1:50k",
+    "price":104.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/osterreich-gesamt-1-50k.html"
+  },
+  {
+    "sku":"AT-CY-50-SD-002",
+    "country":"Austria",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Austria East 1:50k",
+    "price":62.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/osterreich-osten-1-50k.html"
+  },
+  {
+    "sku":"AT-CY-50-SD-003",
+    "country":"Austria",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Austria West 1:50k",
+    "price":62.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/osterreich-westen-1-50k.html"
+  },
+  {
+    "sku":"AT-REG-50-SD-001",
+    "country":"Austria",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"North Tyrol / Vorarlberg 1:50k",
+    "price":29.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/nord-tirol-vorarlberg-1-50k.html"
+  },
+  {
+    "sku":"AT-REG-50-SD-002",
+    "country":"Austria",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Carinthia / Salzburg / East Tyrol 1:50k",
+    "price":29.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/karnten-salzburg-ost-tirol-1-50k.html"
+  },
+  {
+    "sku":"AT-REG-50-SD-003",
+    "country":"Austria",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Lower Austria / Vienna / Burgenland 1:50k",
+    "price":29.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/niederosterreich-wien-burgenland-1-50k.html"
+  },
+  {
+    "sku":"AT-REG-50-SD-004",
+    "country":"Austria",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Upper Austria / Styria 1:50k",
+    "price":29.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/oberosterreich-steiermark-1-50k.html"
+  },
+  {
+    "sku":"DE-REG-50-SD-001",
+    "country":"Germany",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Bayern 1:50k",
+    "price":29.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/bayern-1-50k.html"
+  },
+  {
+    "sku":"DE-REG-50-SD-002",
+    "country":"Germany",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Baden-Württemberg 1:50k",
+    "price":29.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/baden-wurttemberg-1-50k.html"
+  },
+  {
+    "sku":"DE-REG-50-SD-003",
+    "country":"Germany",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Hessen / Rheinland-Pfalz / Saarland 1:50k",
+    "price":29.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/hessen-rheinland-pfalz-saarland-1-50k.html"
+  },
+  {
+    "sku":"DE-REG-50-SD-004",
+    "country":"Germany",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Nordrhein-Westfalen 1:50k",
+    "price":29.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/nordrhein-westfalen-1-50k.html"
+  },
+  {
+    "sku":"DE-REG-50-SD-005",
+    "country":"Germany",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Niedersachsen / Bremen / Hamburg 1:50k",
+    "price":29.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/niedersachsen-bremen-hamburg-1-50k.html"
+  },
+  {
+    "sku":"DE-REG-50-SD-006",
+    "country":"Germany",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Schleswig-Holstein / Mecklenburg-Vorpommern 1:50k",
+    "price":29.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/schleswig-holstein-mecklenburg-vorpommern-1-50k.html"
+  },
+  {
+    "sku":"DE-REG-50-SD-007",
+    "country":"Germany",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Brandenburg / Berlin / Sachsen-Anhalt 1:50k",
+    "price":29.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/brandenburg-berlin-sachsen-anhalt-1-50k.html"
+  },
+  {
+    "sku":"DE-REG-50-SD-008",
+    "country":"Germany",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Sachsen / Thüringen 1:50k",
+    "price":29.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/sachsen-thuringen-1-50k.html"
+  },
+  {
+    "sku":"CH-CY-50-SD-001",
+    "country":"Switzerland",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Schweiz Gesamt 1:50k",
+    "price":233.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/schweiz-gesamt-1-50k.html"
+  },
+  {
+    "sku":"CH-CY-50-SD-002",
+    "country":"Switzerland",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Schweiz Nordwest 1:50k",
+    "price":83.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/schweiz-nordwest-1-50k.html"
+  },
+  {
+    "sku":"CH-CY-50-SD-003",
+    "country":"Switzerland",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Schweiz Süden 1:50k",
+    "price":83.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/schweiz-suden-1-50k.html"
+  },
+  {
+    "sku":"CH-CY-50-SD-004",
+    "country":"Switzerland",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Schweiz Osten 1:50k",
+    "price":83.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/schweiz-osten-1-50k.html"
+  },
+  {
+    "sku":"CH-REG-25-SD-001",
+    "country":"Switzerland",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Westschweiz 1:25k",
+    "price":83.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/westschweiz-1-25k.html"
+  },
+  {
+    "sku":"CH-REG-25-SD-002",
+    "country":"Switzerland",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Jura 1:25k",
+    "price":83.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/jura-1-25k.html"
+  },
+  {
+    "sku":"CH-REG-25-SD-003",
+    "country":"Switzerland",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Bern 1:25k",
+    "price":83.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/bern-1-25k.html"
+  },
+  {
+    "sku":"CH-REG-25-SD-004",
+    "country":"Switzerland",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Wallis / Valais 1:25k",
+    "price":83.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/wallis-valais-1-25k.html"
+  },
+  {
+    "sku":"CH-REG-25-SD-005",
+    "country":"Switzerland",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Zentralschweiz 1:25k",
+    "price":83.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/zentralschweiz-1-25k.html"
+  },
+  {
+    "sku":"CH-REG-25-SD-006",
+    "country":"Switzerland",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Ostschweiz 1:25k",
+    "price":83.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/ostschweiz-1-25k.html"
+  },
+  {
+    "sku":"CH-REG-25-SD-007",
+    "country":"Switzerland",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Ticino 1:25k",
+    "price":83.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/ticino-1-25k.html"
+  },
+  {
+    "sku":"CH-REG-25-SD-008",
+    "country":"Switzerland",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Graubünden 1:25k",
+    "price":83.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/graubunden-1-25k.html"
+  },
+  {
+    "sku":"CH-REG-50-SD-001",
+    "country":"Switzerland",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Westschweiz 1:50k",
+    "price":45.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/westschweiz-1-50k.html"
+  },
+  {
+    "sku":"CH-REG-50-SD-002",
+    "country":"Switzerland",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Jura 1:50k",
+    "price":45.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/jura-1-50k.html"
+  },
+  {
+    "sku":"CH-REG-50-SD-003",
+    "country":"Switzerland",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Bern 1:50k",
+    "price":45.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/bern-1-50k.html"
+  },
+  {
+    "sku":"CH-REG-50-SD-004",
+    "country":"Switzerland",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Wallis / Valais 1:50k",
+    "price":45.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/wallis-valais-1-50k.html"
+  },
+  {
+    "sku":"CH-REG-50-SD-005",
+    "country":"Switzerland",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Zentralschweiz 1:50k",
+    "price":45.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/zentralschweiz-1-50k.html"
+  },
+  {
+    "sku":"CH-REG-50-SD-006",
+    "country":"Switzerland",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Ostschweiz 1:50k",
+    "price":45.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/ostschweiz-1-50k.html"
+  },
+  {
+    "sku":"CH-REG-50-SD-007",
+    "country":"Switzerland",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Ticino 1:50k",
+    "price":45.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/ticino-1-50k.html"
+  },
+  {
+    "sku":"CH-REG-50-SD-008",
+    "country":"Switzerland",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Graubünden 1:50k",
+    "price":45.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/graubunden-1-50k.html"
+  },
+  {
+    "sku":"DE-CY-50-SD-001",
+    "country":"Germany",
+    "map_format":"1:200k",
+    "provider":"",
+    "name":"Deutschland Gesamt 1:50k",
+    "price":91.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/deutschland-gesamt-1-50k.html"
+  },
+  {
+    "sku":"DE-CY-50-SD-002",
+    "country":"Germany",
+    "map_format":"1:200k",
+    "provider":"",
+    "name":"Deutschland Norden 1:50k",
+    "price":54.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/deutschland-norden-1-50k.html"
+  },
+  {
+    "sku":"DE-CY-50-SD-003",
+    "country":"Germany",
+    "map_format":"1:200k",
+    "provider":"",
+    "name":"Deutschland Zentral 1:50k",
+    "price":54.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/deutschland-zentral-1-50k.html"
+  },
+  {
+    "sku":"DE-CY-50-SD-004",
+    "country":"Germany",
+    "map_format":"1:200k",
+    "provider":"",
+    "name":"Deutschland Süden 1:50k",
+    "price":54.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/deutschland-suden-1-50k.html"
+  },
+  {
+    "sku":"IE-CY-50-SD-001",
+    "country":"Ireland",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Republic of Ireland - Whole 1:50k",
+    "price":85.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/republic-of-ireland-whole-1-50k.html"
+  },
+  {
+    "sku":"IE-REG-50-SD-003",
+    "country":"Ireland",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Republic of Ireland - East 1:50k",
+    "price":64.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/republic-of-ireland-east-1-50k.html"
+  },
+  {
+    "sku":"BE-CY-50-SD-001",
+    "country":"Belgium",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Belgium - Whole 1:50k",
+    "price":70.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/belgium-whole-1-50k.html"
+  },
+  {
+    "sku":"BE-CY-50-SD-003",
+    "country":"Belgium",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Belgium - Wallonia and Brussels 1:50k",
+    "price":41.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/belgium-wallonia-and-brussels-1-50k.html"
+  },
+  {
+    "sku":"BE-CY-50-SD-002",
+    "country":"Belgium",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Belgium - Flanders and Brussels 1:50k",
+    "price":41.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/belgium-flanders-and-brussels-1-50k.html"
+  },
+  {
+    "sku":"IE-REG-50-SD-001",
+    "country":"Ireland",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Republic of Ireland - West 1:50k",
+    "price":64.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/republic-of-ireland-west-1-50k.html"
+  },
+  {
+    "sku":"IE-REG-50-SD-002",
+    "country":"Ireland",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Republic of Ireland - South 1:50k",
+    "price":64.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/republic-of-ireland-south-1-50k.html"
+  },
+  {
+    "sku":"NL-CY-50-SD-001",
+    "country":"Netherlands",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Netherlands Whole 1:50k",
+    "price":29.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/nederland-compleet-1-50k.html"
+  },
+  {
+    "sku":"NL-CY-25-SD-001",
+    "country":"Netherlands",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Northern Netherlands 1:25k",
+    "price":29.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/nederland-noord-1-25k.html"
+  },
+  {
+    "sku":"NL-CY-25-SD-002",
+    "country":"Netherlands",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Southern Netherlands 1:25k",
+    "price":29.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/nederland-zuid-1-25k.html"
+  },
+  {
+    "sku":"IT-KOM-REG-50-SD-002",
+    "country":"Italy",
+    "map_format":"1:50k",
+    "provider":"OpenCycleMap",
+    "name":"South Tyrol / Lake Garda 1:50k",
+    "price":58.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/south-tyrol-lake-garda-1-50k.html"
+  },
+  {
+    "sku":"ES-IGN-REG-25-SD-001",
+    "country":"Spain",
+    "map_format":"1:200k",
+    "provider":"",
+    "name":"España Sur e Islas Canarias 1:25k",
+    "price":45.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/espa-a-sur-e-islas-canarias-1-25k.html"
+  },
+  {
+    "sku":"ES-IGN-REG-25-SD-002",
+    "country":"Spain",
+    "map_format":"1:200k",
+    "provider":"",
+    "name":"Meseta Norte y Madrid 1:25k",
+    "price":45.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/meseta-norte-y-madrid-1-25k.html"
+  },
+  {
+    "sku":"ES-IGN-REG-25-SD-003",
+    "country":"Spain",
+    "map_format":"1:200k",
+    "provider":"",
+    "name":"Meseta Sur, Madrid y Extremadura 1:25k",
+    "price":45.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/meseta-sur-madrid-y-extremadura-1-25k.html"
+  },
+  {
+    "sku":"ES-IGN-REG-25-SD-004",
+    "country":"Spain",
+    "map_format":"1:200k",
+    "provider":"",
+    "name":"Norte Peninsular 1:25k",
+    "price":45.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/norte-peninsular-1-25k.html"
+  },
+  {
+    "sku":"ES-IGN-REG-25-SD-005",
+    "country":"Spain",
+    "map_format":"1:200k",
+    "provider":"",
+    "name":"Este Peninsular, Illes Balears y Andorra 1:25k",
+    "price":45.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/este-peninsular-illes-balears-y-andorra-1-25k.html"
+  },
+  {
+    "sku":"IRE-CY-50-SD-001",
+    "country":"Ireland",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Republic of Ireland & Northern Ireland 1:50k (Plus 1:25k Hotspots)",
+    "price":136.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/republic-of-ireland-northern-ireland-1-50k-plus-1-25k-hotspots.html"
+  },
+  {
+    "sku":"NI-CY-50-SD-001",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Northern Ireland Whole 1:50k (Plus 1:25k Hotspots)",
+    "price":66.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/northern-ireland-whole-1-50k-plus-1-25k-hotspots.html"
+  },
+  {
+    "sku":"IOM-CTY-25-SD-001-T",
+    "country":"Isle of Man",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Isle of Man 1:25k & 1:50k",
+    "price":29.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/isle-of-man-1-25k-1-50k-toggleable.html"
+  },
+  {
+    "sku":"CH-SSP-50-SD-001",
+    "country":"Switzerland",
+    "map_format":"1:200k",
+    "provider":"",
+    "name":"Snow Trail Map",
+    "price":304.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/snow-trail-map.html"
+  },
+  {
+    "sku":"CH-CY-25-SD-001",
+    "country":"Switzerland",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Schweiz Gesamt 1:25k",
+    "price":383.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/schweiz-gesamt-1-25.html"
+  },
+  {
+    "sku":"CB-CS-25-50-SD-001-T",
+    "country":"Austria",
+    "map_format":"1:200k",
+    "provider":"OpenCycleMap",
+    "name":"Transalp",
+    "price":158.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/transalp.html"
+  },
+  {
+    "sku":"CB-CS-25-50-SD-001-T",
+    "country":"Germany",
+    "map_format":"1:25k",
+    "provider":"OpenCycleMap",
+    "name":"Transalp",
+    "price":158.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/transalp.html"
+  },
+  {
+    "sku":"CB-CS-25-50-SD-001-T",
+    "country":"Italy",
+    "map_format":"1:50k",
+    "provider":"OpenCycleMap",
+    "name":"Transalp",
+    "price":158.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/transalp.html"
+  },
+  {
+    "sku":"FR-SC-25K-50W-50H",
+    "country":"France",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"France Site Centred 50km x 50km",
+    "price":45.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-50km-x-50km-1-25k.html"
+  },
+  {
+    "sku":"FR-SC-25K-100W-100H",
+    "country":"France",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"France Site Centred 100km x 100km",
+    "price":75,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-100km-x-100km-1-25k.html"
+  },
+  {
+    "sku":"FR-SC-25K-75W-75H",
+    "country":"France",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"France Site Centred 75km x 75km",
+    "price":62.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-75km-x-75km-1-25k.html"
+  },
+  {
+    "sku":"FR-SC-25K-150W-150H",
+    "country":"France",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"France Site Centred 150km x 150km",
+    "price":91.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-150km-x-150km-1-25k.html"
+  },
+  {
+    "sku":"DE-SC-25K-50W-50H",
+    "country":"Germany",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Germany Site Centred 50km x 50km",
+    "price":29.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-50km-x-50km-1-25k-714.html"
+  },
+  {
+    "sku":"DE-SC-25K-75W-75H",
+    "country":"Germany",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Germany Site Centred 75km x 75km",
+    "price":37.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-75km-x-75km-1-25k-709.html"
+  },
+  {
+    "sku":"DE-SC-25K-100W-100H",
+    "country":"Germany",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Germany Site Centred 100km x 100km",
+    "price":45.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-100km-x-100km-1-25k-716.html"
+  },
+  {
+    "sku":"DE-SC-25K-150W-150H",
+    "country":"Germany",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Germany Site Centred 150km x 150km",
+    "price":54.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-150km-x-150km-1-25k-711.html"
+  },
+  {
+    "sku":"ES-SC-25K-50W-50H",
+    "country":"Spain",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Spain Site Centred 50km x 50km",
+    "price":25,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-50km-x-50km-1-25k-715.html"
+  },
+  {
+    "sku":"ES-SC-25K-75W-75H",
+    "country":"Spain",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Spain Site Centred 75km x 75km",
+    "price":29.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-75km-x-75km-1-25k-710.html"
+  },
+  {
+    "sku":"ES-SC-25K-100W-100H",
+    "country":"Spain",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Spain Site Centred 100km x 100km",
+    "price":33.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-100km-x-100km-1-25k-717.html"
+  },
+  {
+    "sku":"ES-SC-25K-150W-150H",
+    "country":"Spain",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Spain Site Centred 150km x 150km",
+    "price":37.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-150km-x-150km-1-25k-712.html"
+  },
+  {
+    "sku":"CH-SC-25K-50W-50H",
+    "country":"Switzerland",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Switzerland Site Centred 50km x 50km",
+    "price":62.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-50km-x-50km-1-25k-716.html"
+  },
+  {
+    "sku":"CH-SC-25K-75W-75H",
+    "country":"Switzerland",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Switzerland Site Centred 75km x 75km",
+    "price":75,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-75km-x-75km-1-25k-711.html"
+  },
+  {
+    "sku":"CH-SC-25K-100W-100H",
+    "country":"Switzerland",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Switzerland Site Centred 100km x 100km",
+    "price":91.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-100km-x-100km-1-25k-718.html"
+  },
+  {
+    "sku":"CH-SC-25K-150W-150H",
+    "country":"Switzerland",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Switzerland Site Centred 150km x 150km",
+    "price":104.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-150km-x-150km-1-25k-713.html"
+  },
+  {
+    "sku":"AT-SC-50K-50W-50H",
+    "country":"Austria",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Austria Site Centred 50km x 50km",
+    "price":29.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-50km-x-50km-1-50k.html"
+  },
+  {
+    "sku":"AT-SC-50K-75W-75H",
+    "country":"Austria",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Austria Site Centred 75km x 75km",
+    "price":37.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-75km-x-75km-1-50k.html"
+  },
+  {
+    "sku":"AT-SC-50K-100W-100H",
+    "country":"Austria",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Austria Site Centred 100km x 100km",
+    "price":45.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-100km-x-100km-1-50k.html"
+  },
+  {
+    "sku":"AT-SC-50K-150W-150H",
+    "country":"Austria",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Austria Site Centred 150km x 150km",
+    "price":54.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-150km-x-150km-1-50k.html"
+  },
+  {
+    "sku":"NZ-CY-50-SD-001",
+    "country":"New Zealand",
+    "map_format":"1:250k",
+    "provider":"",
+    "name":"New Zealand Whole 1:50k",
+    "price":66.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/new-zealand-whole-1-50k.html"
+  },
+  {
+    "sku":"DE-REG-PREM-SD-002-T",
+    "country":"Germany",
+    "map_format":"1:200k",
+    "provider":"",
+    "name":"Baden-Württemberg 1:25k & 1:50k",
+    "price":54.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/baden-wurttemberg-1-25k-1-50k.html"
+  },
+  {
+    "sku":"DE-REG-PREM-SD-001-T",
+    "country":"Germany",
+    "map_format":"1:200k",
+    "provider":"",
+    "name":"Bayern 1:25k & 1:50k",
+    "price":54.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/bayern-1-25k-1-50k.html"
+  },
+  {
+    "sku":"DE-REG-PREM-SD-007-T",
+    "country":"Germany",
+    "map_format":"1:200k",
+    "provider":"",
+    "name":"Brandenburg / Berlin / Sachsen-Anhalt 1:25k & 1:50k",
+    "price":54.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/brandenburg-berlin-sachsen-anhalt-1-25k-1-50k.html"
+  },
+  {
+    "sku":"DE-REG-PREM-SD-003-T",
+    "country":"Germany",
+    "map_format":"1:200k",
+    "provider":"",
+    "name":"Hessen / Rheinland-Pfalz / Saarland 1:25k & 1:50k",
+    "price":54.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/hessen-rheinland-pfalz-saarland-1-25k-1-50k.html"
+  },
+  {
+    "sku":"DE-REG-PREM-SD-005-T",
+    "country":"Germany",
+    "map_format":"1:200k",
+    "provider":"",
+    "name":"Niedersachsen / Bremen / Hamburg 1:25k & 1:50k",
+    "price":54.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/niedersachsen-bremen-hamburg-1-25k-1-50k.html"
+  },
+  {
+    "sku":"DE-REG-PREM-SD-004-T",
+    "country":"Germany",
+    "map_format":"1:200k",
+    "provider":"",
+    "name":"Nordrhein-Westfalen 1:25k & 1:50k",
+    "price":54.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/nordrhein-westfalen-1-25k-1-50k.html"
+  },
+  {
+    "sku":"DE-REG-PREM-SD-008-T",
+    "country":"Germany",
+    "map_format":"1:200k",
+    "provider":"",
+    "name":"Sachsen / Thüringen 1:25k & 1:50k",
+    "price":54.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/sachsen-thuringen-1-25k-1-50k.html"
+  },
+  {
+    "sku":"DE-REG-PREM-SD-006-T",
+    "country":"Germany",
+    "map_format":"1:200k",
+    "provider":"",
+    "name":"Schleswig-Holstein / Mecklenburg-Vorpommern 1:25k & 1:50k",
+    "price":54.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/schleswig-holstein-mecklenburg-vorpommern-1-25k-1-50k.html"
+  },
+  {
+    "sku":"CH-SSP-50-SD-002-T",
+    "country":"Switzerland",
+    "map_format":"1:200k",
+    "provider":"",
+    "name":"Swiss Singletrail Map",
+    "price":304.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/swiss-singletrail-map.html"
+  },
+  {
+    "sku":"CA-REG-50-SD-002",
+    "country":"Canada",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"British Columbia 1:50k",
+    "price":58.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/british-columbia.html"
+  },
+  {
+    "sku":"CA-REG-50-SD-001",
+    "country":"Canada",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Alberta 1:50k",
+    "price":58.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/alberta.html"
+  },
+  {
+    "sku":"CA-REG-50-SD-011",
+    "country":"Canada",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Yukon 1:50k",
+    "price":33.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/yukon.html"
+  },
+  {
+    "sku":"UK-SC-PLUSSTREETVIEW",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"GB  Site Centred Upgrade (Ordnance Survey 1:10k)",
+    "price":6.25,
+    "enabled":1,
+    "url_key":"https://satmap.com/os-streetview-site-centred-upgrade.html"
+  },
+  {
+    "sku":"UK-SC-25K-120W-120H",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"GB Site Centred 120km x 120km",
+    "price":62.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-large-120km-x-120km-1-25k.html"
+  },
+  {
+    "sku":"UK-SC-25K-150W-150H",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"GB Site Centred 150km x 150km",
+    "price":108.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-extra-large-150km-x-150km-1-25k.html"
+  },
+  {
+    "sku":"DE-REG-ADV-SD-002",
+    "country":"Germany",
+    "map_format":"1:200k",
+    "provider":"OpenCycleMap",
+    "name":"Schwarzwald & Schwäbische Alb",
+    "price":25,
+    "enabled":1,
+    "url_key":"https://satmap.com/schwarzwald-schwabische-alb.html"
+  },
+  {
+    "sku":"DE-REG-ADV-SD-003",
+    "country":"Germany",
+    "map_format":"1:200k",
+    "provider":"OpenCycleMap",
+    "name":"Rechtsrheinische Mittelgebirge",
+    "price":25,
+    "enabled":1,
+    "url_key":"https://satmap.com/rechtsrheinische-mittelgebirge.html"
+  },
+  {
+    "sku":"ES-ADV-PREM-SD-001",
+    "country":"Spain",
+    "map_format":"1:100k",
+    "provider":"",
+    "name":"Mallorca (Mixed Scale)",
+    "price":45.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/mallorca-adventure-map.html"
+  },
+  {
+    "sku":"AU-CY-250-SD-001",
+    "country":"Australia",
+    "map_format":"1:250k",
+    "provider":"",
+    "name":"Australia Whole 1:250k",
+    "price":50,
+    "enabled":1,
+    "url_key":"https://satmap.com/australia-whole-1-250k.html"
+  },
+  {
+    "sku":"UK-HVY-PREM-SD-001-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Harvey",
+    "name":"HARVEY Dartmoor 1:25k",
+    "price":66.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/harvey-dartmoor-1-25k-1-40k.html"
+  },
+  {
+    "sku":"UK-HVY-PREM-SD-002-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Harvey",
+    "name":"HARVEY Yorkshire Dales 1:25k",
+    "price":66.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/harvey-yorkshire-dales-1-25k-1-40k.html"
+  },
+  {
+    "sku":"UK-HVY-PREM-SD-003-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Harvey",
+    "name":"HARVEY Loch Lomond & The Trossachs 1:25k",
+    "price":66.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/harvey-loch-lomond-the-trossachs-1-25k-1-40k.html"
+  },
+  {
+    "sku":"SE-NT-100-SD-001",
+    "country":"Sweden",
+    "map_format":"1:100k",
+    "provider":"",
+    "name":"Kungsleden National Trail 100k",
+    "price":48.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/kungsleden-national-trail-100k.html"
+  },
+  {
+    "sku":"UK-REG-PREM-SD-003-T",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"South East England 1:10k, 1:25k & 1:50k",
+    "price":120.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/south-east-england-1-10k-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-REG-PREM-SD-004-T",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Central England 1:10k, 1:25k & 1:50k",
+    "price":120.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/central-england-1-10k-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-REG-PREM-SD-006-T",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Northern England 1:10k, 1:25k & 1:50k",
+    "price":120.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/northern-england-1-10k-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-REG-PREM-SD-002-T",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"South West England 1:10k, 1:25k & 1:50k",
+    "price":120.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/south-west-england-1-10k-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-REG-PREM-SD-005-T",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Eastern England 1:10k, 1:25k & 1:50k",
+    "price":120.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/eastern-england-1-10k-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-REG-PREM-SD-008-T",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Central Scotland 1:10k, 1:25k & 1:50k",
+    "price":120.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/central-scotland-1-10k-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-REG-PREM-SD-007-T",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Lowlands & Borders 1:10k, 1:25k & 1:50k",
+    "price":120.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/lowlands-borders-1-10k-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-REG-PREM-SD-010-T",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"North East Scotland 1:10k, 1:25k & 1:50k",
+    "price":120.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/north-east-scotland-1-10k-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-REG-PREM-SD-009-T",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"North West Scotland 1:10k, 1:25k & 1:50k",
+    "price":120.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/north-west-scotland-1-10k-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-REG-PREM-SD-001-T",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Wales 1:10k, 1:25k & 1:50k",
+    "price":120.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/wales-1-10k-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-GB-PLAT-SD-003",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"GB Platinum South 1:10k, 1:25k & 1:50k",
+    "price":158.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/gb-platinum-south.html"
+  },
+  {
+    "sku":"UK-GB-PLAT-SD-001",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"GB Platinum North 1:10k, 1:25k & 1:50k",
+    "price":158.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/gb-platinum-north.html"
+  },
+  {
+    "sku":"UK-GB-PLAT-SD-002",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"GB Platinum Central 1:10k, 1:25k & 1:50k",
+    "price":158.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/gb-platinum-central.html"
+  },
+  {
+    "sku":"SE-REG-100-SD-001",
+    "country":"Sweden",
+    "map_format":"1:100k",
+    "provider":"",
+    "name":"Region Mountain Map 100k - North",
+    "price":116.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/region-mountain-map-100k-north.html"
+  },
+  {
+    "sku":"SE-REG-100-SD-002",
+    "country":"Sweden",
+    "map_format":"1:100k",
+    "provider":"",
+    "name":"Region Mountain Map 100k - South",
+    "price":125,
+    "enabled":1,
+    "url_key":"https://satmap.com/region-mountain-map-100k-south.html"
+  },
+  {
+    "sku":"SE-SC-50K-150W-150H",
+    "country":"Sweden",
+    "map_format":"",
+    "provider":"",
+    "name":"Sweden Site Centred 150km x 150km ",
+    "price":79.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-150km-x-150km-1-50k-817.html"
+  },
+  {
+    "sku":"SE-SC-50K-75W-75H",
+    "country":"Sweden",
+    "map_format":"",
+    "provider":"",
+    "name":"Sweden Site Centred 75km x 75km ",
+    "price":45.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-75km-x-75km-1-50k-818.html"
+  },
+  {
+    "sku":"SE-SC-50K-100W-100H",
+    "country":"Sweden",
+    "map_format":"",
+    "provider":"",
+    "name":"Sweden Site Centred 100km x 100km ",
+    "price":54.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-100km-x-100km-1-50k-819.html"
+  },
+  {
+    "sku":"SE-SC-50K-50W-50H",
+    "country":"Sweden",
+    "map_format":"",
+    "provider":"",
+    "name":"Sweden Site Centred 50km x 50km ",
+    "price":41.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/site-centred-50km-x-50km-1-50k-820.html"
+  },
+  {
+    "sku":"DE-REG-ADV-SD-001",
+    "country":"Germany",
+    "map_format":"1:200k",
+    "provider":"OpenCycleMap",
+    "name":"Harz, Thüringer Wald & Rhön",
+    "price":25,
+    "enabled":1,
+    "url_key":"https://satmap.com/harz-thuringer-wald-rhon.html"
+  },
+  {
+    "sku":"NO-CY-50-SD-001",
+    "country":"Norway",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Norway - Komplett 1:50k",
+    "price":50,
+    "enabled":1,
+    "url_key":"https://satmap.com/norway-komplett-1-50k.html"
+  },
+  {
+    "sku":"NO-REG-50-SD-008",
+    "country":"Norway",
+    "map_format":"",
+    "provider":"",
+    "name":"Region Troms Finnmark Øst 50k",
+    "price":1,
+    "enabled":2,
+    "url_key":"https://satmap.com/region-troms-finnmark-ost-50k.html"
+  },
+  {
+    "sku":"NO-REG-50-SD-007",
+    "country":"Norway",
+    "map_format":"",
+    "provider":"",
+    "name":"Region Troms Finnmark Vest 50k",
+    "price":1,
+    "enabled":2,
+    "url_key":"https://satmap.com/region-troms-finnmark-vest-50k.html"
+  },
+  {
+    "sku":"NO-REG-50-SD-006",
+    "country":"Norway",
+    "map_format":"",
+    "provider":"",
+    "name":"Region Nordland Nord 50k",
+    "price":1,
+    "enabled":2,
+    "url_key":"https://satmap.com/region-nordland-nord-50k.html"
+  },
+  {
+    "sku":"NO-REG-50-SD-005",
+    "country":"Norway",
+    "map_format":"",
+    "provider":"",
+    "name":"Region Nordland Sør 50k",
+    "price":1,
+    "enabled":2,
+    "url_key":"https://satmap.com/region-nordland-sor-50k.html"
+  },
+  {
+    "sku":"NO-REG-50-SD-001",
+    "country":"Norway",
+    "map_format":"",
+    "provider":"",
+    "name":"Region Midt-Norge Vest 50k",
+    "price":1,
+    "enabled":2,
+    "url_key":"https://satmap.com/region-midt-norge-vest-50k.html"
+  },
+  {
+    "sku":"NO-REG-50-SD-002",
+    "country":"Norway",
+    "map_format":"",
+    "provider":"",
+    "name":"Region Midt-Norge Øst 50k",
+    "price":1,
+    "enabled":2,
+    "url_key":"https://satmap.com/region-midt-norge-ost-50k.html"
+  },
+  {
+    "sku":"NO-REG-50-SD-003",
+    "country":"Norway",
+    "map_format":"",
+    "provider":"",
+    "name":"Region Sør-Norge Vest 50k",
+    "price":1,
+    "enabled":2,
+    "url_key":"https://satmap.com/region-sor-norge-vest-50k.html"
+  },
+  {
+    "sku":"NO-REG-50-SD-004",
+    "country":"Norway",
+    "map_format":"",
+    "provider":"",
+    "name":"Region Sør-Norge Øst 50k",
+    "price":1,
+    "enabled":2,
+    "url_key":"https://satmap.com/region-sor-norge-ost-50k.html"
+  },
+  {
+    "sku":"ES-ALP-PREM-SD-003",
+    "country":"Spain",
+    "map_format":"1:10k",
+    "provider":"",
+    "name":"Catalunya Interior y Litoral",
+    "price":58.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/catalunya-interior-y-litoral.html"
+  },
+  {
+    "sku":"ES-ALP-PREM-SD-004",
+    "country":"Spain",
+    "map_format":"1:250k",
+    "provider":"",
+    "name":"Espacios Naturales de Andalucí­a",
+    "price":41.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/espacios-naturales-de-andalucia.html"
+  },
+  {
+    "sku":"ES-ALP-PREM-SD-005",
+    "country":"Spain",
+    "map_format":"1:250k",
+    "provider":"",
+    "name":"Sistema Central - Picos",
+    "price":33.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/sistema-central-picos.html"
+  },
+  {
+    "sku":"ES-ALP-PREM-SD-001",
+    "country":"Spain",
+    "map_format":"1:250k",
+    "provider":"",
+    "name":"Pirineo Aragon",
+    "price":58.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/pirineo-aragones-y-navarro.html"
+  },
+  {
+    "sku":"ES-ALP-PREM-SD-002",
+    "country":"Spain",
+    "map_format":"1:250k",
+    "provider":"",
+    "name":"Pirineo Catalán y Andorra",
+    "price":75,
+    "enabled":1,
+    "url_key":"https://satmap.com/pirineo-catalan-y-andorra.html"
+  },
+  {
+    "sku":"LU-CY-PREM-SD-001-T",
+    "country":"Luxembourg",
+    "map_format":"1:100k",
+    "provider":"",
+    "name":"Luxembourg Whole 1:20k",
+    "price":41.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/luxembourg-whole-1-20k.html"
+  },
+  {
+    "sku":"MA-CY-50-SD-001",
+    "country":"Morocco",
+    "map_format":"1:50k",
+    "provider":"OpenCycleMap",
+    "name":"Morocco 1:50k",
+    "price":41.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/morocco-1-50k.html"
+  },
+  {
+    "sku":"IE-EW-PREM-SD-001",
+    "country":"Ireland",
+    "map_format":"1:25k",
+    "provider":"EastWest",
+    "name":"Dublin & Wicklow Mountains 1:25k and 1:50k",
+    "price":35,
+    "enabled":1,
+    "url_key":"https://satmap.com/dublin-wicklow-mountains-1-25k-and-1-50k.html"
+  },
+  {
+    "sku":"UK-HVY-PREM-SD-004-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Harvey",
+    "name":"HARVEY Lake District 1:25k",
+    "price":66.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/harvey-lake-district-1-25k-1-40k.html"
+  },
+  {
+    "sku":"UK-MAR-PREM-SD-001-T",
+    "country":"Great Britain",
+    "map_format":"",
+    "provider":"UKHO Marine Charts",
+    "name":"Weymouth, Solent to Beachy Head",
+    "price":25,
+    "enabled":1,
+    "url_key":"https://satmap.com/solent-isle-of-wight-brighton-weymouth.html"
+  },
+  {
+    "sku":"UK-HVY-PREM-SD-005-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Harvey",
+    "name":"HARVEY Snowdonia 1:25k",
+    "price":66.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/harvey-snowdonia-1-25k-1-40k.html"
+  },
+  {
+    "sku":"ES-ADV-PREM-SD-002",
+    "country":"Spain",
+    "map_format":"1:200k",
+    "provider":"",
+    "name":"Menorca (Mixed Scale)",
+    "price":33.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/menorca-adventure-map.html"
+  },
+  {
+    "sku":"UK-NT-PREM-SD-018-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Wales Coast Path 1:25k & 1:50k",
+    "price":45.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/wales-coast-path-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-IRE-HVY-30-SD-001",
+    "country":"Great Britain",
+    "map_format":"1:30k",
+    "provider":"Harvey",
+    "name":"HARVEY MacGillycuddys Reeks 1:30k",
+    "price":33.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/harvey-macgillycuddys-reeks-1-30k.html"
+  },
+  {
+    "sku":"UK-GB-OCM-SD-001",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"OpenCycleMap",
+    "name":"Great Britain (North) 1:25k OpenCycleMap & OS 1:50k",
+    "price":1,
+    "enabled":2,
+    "url_key":"https://satmap.com/great-britain-north-1-25k-opencyclemap-os-1-50k.html"
+  },
+  {
+    "sku":"UK-GB-OCM-SD-002",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"OpenCycleMap",
+    "name":"Great Britain (Central) 1:25k OpenCycleMap & OS 1:50k",
+    "price":1,
+    "enabled":2,
+    "url_key":"https://satmap.com/great-britain-central-1-25k-opencyclemap-os-1-50k.html"
+  },
+  {
+    "sku":"UK-GB-OCM-SD-003",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"OpenCycleMap",
+    "name":"Great Britain (South) 1:25k OpenCycleMap & OS 1:50k",
+    "price":1,
+    "enabled":2,
+    "url_key":"https://satmap.com/great-britain-south-1-25k-opencyclemap-os-1-50k.html"
+  },
+  {
+    "sku":"DE-REG-ADV-SD-004",
+    "country":"Germany",
+    "map_format":"1:200k",
+    "provider":"OpenCycleMap",
+    "name":"Nordseeküste, Schleswig-Holstein",
+    "price":25,
+    "enabled":1,
+    "url_key":"https://satmap.com/nordseekuste-schleswig-holstein.html"
+  },
+  {
+    "sku":"DE-REG-ADV-SD-005",
+    "country":"Germany",
+    "map_format":"1:200k",
+    "provider":"OpenCycleMap",
+    "name":"Ostseeküste, Mecklenburgische Seenplatte",
+    "price":25,
+    "enabled":1,
+    "url_key":"https://satmap.com/ostseekuste-mecklenburgische-seenplatte.html"
+  },
+  {
+    "sku":"DE-REG-ADV-SD-006",
+    "country":"Germany",
+    "map_format":"1:200k",
+    "provider":"OpenCycleMap",
+    "name":"Voralpenland, Bayerischer Wald, Donau",
+    "price":25,
+    "enabled":1,
+    "url_key":"https://satmap.com/voralpenland-bayerischer-wald-donau.html"
+  },
+  {
+    "sku":"UK-CS-PREM-SD-005-T",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"The Munros 1:10k, 1:25k and 1:50k",
+    "price":140.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/satmap-10-peaks-challenge.html"
+  },
+  {
+    "sku":"CA-REG-50-SD-008",
+    "country":"Canada",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"Ontario 1:50k",
+    "price":58.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/ontario.html"
+  },
+  {
+    "sku":"UK-NT-PREM-SD-019-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Monarch 1:25k & 1:50k",
+    "price":43.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/monarch-s-way-whole-1-25k-1-50k.html"
+  },
+  {
+    "sku":"UK-NT-PREM-SD-020-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Monarch's Way (Pt 1: Worcester to Stratford-upon-Avon)",
+    "price":19.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/monarch-s-way-pt-1-worcester-to-stratford-upon-avon.html"
+  },
+  {
+    "sku":"UK-NT-PREM-SD-021-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Monarch's Way (Pt 2: Stratford-upon-Avon to Charmouth)",
+    "price":23.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/monarch-s-way-pt-2-stratford-upon-avon-to-charmouth.html"
+  },
+  {
+    "sku":"UK-NT-PREM-SD-022-T",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Monarch's Way (Pt 3: Charmouth to Shoreham)",
+    "price":24.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/monarch-s-way-pt-3-charmouth-to-shoreham.html"
+  },
+  {
+    "sku":"UK-GB-OCM-ONLY-SD-003",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"OpenCycleMap",
+    "name":"Great Britain (South) 1:25k OpenCycleMap",
+    "price":20.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/great-britain-south-1-25k-opencyclemap.html"
+  },
+  {
+    "sku":"UK-GB-OCM-ONLY-SD-002",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"OpenCycleMap",
+    "name":"Great Britain (Central) 1:25k OpenCycleMap",
+    "price":20.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/great-britain-central-1-25k-opencyclemap.html"
+  },
+  {
+    "sku":"UK-GB-OCM-ONLY-SD-001",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"OpenCycleMap",
+    "name":"Great Britain (North) 1:25k OpenCycleMap",
+    "price":20.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/great-britain-north-1-25k-opencyclemap.html"
+  },
+  {
+    "sku":"FI-CY-50-SD-001",
+    "country":"Finland",
+    "map_format":"1:250k",
+    "provider":"",
+    "name":"Finland Whole 1:50k",
+    "price":41.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/finland-whole-1-50k.html"
+  },
+  {
+    "sku":"UK-HVY-CYC-40-SD-001",
+    "country":"Great Britain",
+    "map_format":"1:40k",
+    "provider":"Harvey",
+    "name":"HARVEY South Downs Way (Cycle) 1:40k",
+    "price":25,
+    "enabled":1,
+    "url_key":"https://satmap.com/harvey-south-downs-way-cycle.html"
+  },
+  {
+    "sku":"HK-CY-OCM-SD-001",
+    "country":"Hong Kong",
+    "map_format":"1:25k",
+    "provider":"OpenCycleMap",
+    "name":"Hong Kong 1:25k",
+    "price":29.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/hong-kong-1-25k.html"
+  },
+  {
+    "sku":"UK-REG-AERIAL-SD-004",
+    "country":"Great Britain",
+    "map_format":"1m Aerial",
+    "provider":"Digital Aerial Imagery",
+    "name":"Central England 1m Aerial",
+    "price":29.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/central-england-aerial.html"
+  },
+  {
+    "sku":"UK-REG-AERIAL-SD-005",
+    "country":"Great Britain",
+    "map_format":"1m Aerial",
+    "provider":"Digital Aerial Imagery",
+    "name":"Eastern England 1m Aerial",
+    "price":22.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/eastern-england-aerial.html"
+  },
+  {
+    "sku":"UK-REG-AERIAL-SD-006",
+    "country":"Great Britain",
+    "map_format":"1m Aerial",
+    "provider":"Digital Aerial Imagery",
+    "name":"Northern England 1m Aerial",
+    "price":22.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/northern-england-aerial.html"
+  },
+  {
+    "sku":"UK-REG-AERIAL-SD-003",
+    "country":"Great Britain",
+    "map_format":"1m Aerial",
+    "provider":"Digital Aerial Imagery",
+    "name":"South East England 1m Aerial",
+    "price":22.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/south-east-england-aerial.html"
+  },
+  {
+    "sku":"UK-REG-AERIAL-SD-002",
+    "country":"Great Britain",
+    "map_format":"1m Aerial",
+    "provider":"Digital Aerial Imagery",
+    "name":"South West England 1m Aerial",
+    "price":22.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/south-west-england-aerial.html"
+  },
+  {
+    "sku":"UK-REG-AERIAL-SD-001",
+    "country":"Great Britain",
+    "map_format":"1m Aerial",
+    "provider":"Digital Aerial Imagery",
+    "name":"Wales 1m Aerial",
+    "price":22.5,
+    "enabled":1,
+    "url_key":"https://satmap.com/wales-aerial.html"
+  },
+  {
+    "sku":"DE-DAV-25-SD-003",
+    "country":"Austria",
+    "map_format":"",
+    "provider":"",
+    "name":"German & Austrian Alpine Club Map (DAV/OeAV) Version 3 - 1:25k",
+    "price":91.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/german-austrian-alpine-club-map-dav-oeav-version-3-1-25k.html"
+  },
+  {
+    "sku":"ZA-CY-50-SD-001",
+    "country":"South Africa",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"South Africa (North) 1:50k",
+    "price":41.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/south-africa-north-1-50k.html"
+  },
+  {
+    "sku":"FR-CY-50-SD-001",
+    "country":"France",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"France Whole & Corsica 1:50k ",
+    "price":200,
+    "enabled":1,
+    "url_key":"https://satmap.com/france-whole-corsica-1-50k.html"
+  },
+  {
+    "sku":"FR-CY-50-SD-002",
+    "country":"France",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"North West France 1:50k ",
+    "price":79.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/north-west-france-1-50k.html"
+  },
+  {
+    "sku":"FR-CY-50-SD-003",
+    "country":"France",
+    "map_format":"",
+    "provider":"",
+    "name":"North East France 1:50k",
+    "price":79.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/north-east-france-1-50k.html"
+  },
+  {
+    "sku":"FR-CY-50-SD-004",
+    "country":"France",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"South West France 1:50k ",
+    "price":79.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/south-west-france-1-50k.html"
+  },
+  {
+    "sku":"FR-CY-50-SD-005",
+    "country":"France",
+    "map_format":"1:50k",
+    "provider":"",
+    "name":"South East France 1:50k",
+    "price":79.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/south-east-france-1-50k.html"
+  },
+  {
+    "sku":"FR-CY-25-SD-002",
+    "country":"France",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"North West France 1:25k",
+    "price":145.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/north-west-france-1-25k.html"
+  },
+  {
+    "sku":"FR-CY-25-SD-003",
+    "country":"France",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"North East France 1:25k",
+    "price":145.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/north-east-france-1-25k.html"
+  },
+  {
+    "sku":"FR-CY-25-SD-004",
+    "country":"France",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"South West France 1:25k ",
+    "price":145.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/south-west-france-1-25k.html"
+  },
+  {
+    "sku":"FR-CY-25-SD-005",
+    "country":"France",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"South East France 1:25k",
+    "price":145.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/south-east-france-1-25k.html"
+  },
+  {
+    "sku":"FR-CY-25-SD-006",
+    "country":"France",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Corsica 1:25k ",
+    "price":54.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/corsica-1-25k.html"
+  },
+  {
+    "sku":"CB-TMB-25-SD-001",
+    "country":"France",
+    "map_format":"1:25k",
+    "provider":"",
+    "name":"Tour du Mont Blanc 25k",
+    "price":58.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/tour-du-mont-blanc-25k.html"
+  },
+  {
+    "sku":"DE-CY-100-SD-001",
+    "country":"Germany",
+    "map_format":"1:100k",
+    "provider":"",
+    "name":"Deutschland Gesamt 1:100k",
+    "price":50,
+    "enabled":1,
+    "url_key":"https://satmap.com/deutschland-gesamt-1-100k.html"
+  },
+  {
+    "sku":"IT-CY-OCM-25-SD-001",
+    "country":"Italy",
+    "map_format":"",
+    "provider":"",
+    "name":"OpenCycleMap 25k Italy (North)",
+    "price":41.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/opencyclemap-25k-italy-north.html"
+  },
+  {
+    "sku":"IT-CY-OCM-25-SD-002",
+    "country":"Italy",
+    "map_format":"1:25k",
+    "provider":"OpenCycleMap",
+    "name":"OpenCycleMap 25k Italy (South) ",
+    "price":41.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/opencyclemap-25k-italy-south.html"
+  },
+  {
+    "sku":"PT-CY-25-SD-001",
+    "country":"Portugal",
+    "map_format":"1:25k",
+    "provider":"OpenCycleMap",
+    "name":"Portugal & Madeira 25k ",
+    "price":41.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/portugal-madeira-25k.html"
+  },
+  {
+    "sku":"UK-GB-PLAT-SD-004",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"Platinum Full",
+    "price":275,
+    "enabled":1,
+    "url_key":"https://satmap.com/platinum-full.html"
+  },
+  {
+    "sku":"UK-GB-25-SD-001",
+    "country":"Great Britain",
+    "map_format":"1:25k",
+    "provider":"Ordnance Survey ",
+    "name":"Great Britain (Whole) 1:25k",
+    "price":208.33,
+    "enabled":1,
+    "url_key":"https://satmap.com/great-britain-whole-1-25k.html"
+  },
+  {
+    "sku":"UK-CS-PREM-SD-007-T",
+    "country":"Great Britain",
+    "map_format":"1:10k",
+    "provider":"Ordnance Survey ",
+    "name":"LDWA Welsh Valleys 100",
+    "price":20,
+    "enabled":1,
+    "url_key":"https://satmap.com/ldwa-welsh-valleys-100.html"
+  },
+  {
+    "sku":"UK-GB-ADV-SD-004",
+    "country":"Great Britain",
+    "map_format":"1:100k",
+    "provider":"Adventure Map",
+    "name":"GB Adventure Map (Whole) 1:25k ",
+    "price":50,
+    "enabled":1,
+    "url_key":"https://satmap.com/gb-adventure-map-whole-1-25k.html"
+  },
+  {
+    "sku":"AT-CY-ADV-SD-001",
+    "country":"Austria",
+    "map_format":"1:100k",
+    "provider":"Adventure Map",
+    "name":"Austria Whole Adventure Map 1:25k",
+    "price":50,
+    "enabled":1,
+    "url_key":"https://satmap.com/austria-whole-adventure-map-1-25k.html"
+  },
+  {
+    "sku":"CHA-CY-ADV-SD-001",
+    "country":"Great Britain",
+    "map_format":"1:100k",
+    "provider":"Adventure Map",
+    "name":"Channel Islands Adventure map 1:25k",
+    "price":16.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/channel-islands-adventure-map-1-25k.html"
+  },
+  {
+    "sku":"CI-ES-ADV-SD-001",
+    "country":"Spain",
+    "map_format":"1:100k",
+    "provider":"Adventure Map",
+    "name":"Canary Islands Adventure Map 1:25k",
+    "price":25,
+    "enabled":1,
+    "url_key":"https://satmap.com/canary-islands-adventure-map-1-25k.html"
+  },
+  {
+    "sku":"CYP-CY-ADV-SD-001",
+    "country":"Cyprus",
+    "map_format":"1:100k",
+    "provider":"Adventure Map",
+    "name":"Cyprus Adventure Map 1:25k",
+    "price":29.17,
+    "enabled":1,
+    "url_key":"https://satmap.com/cyprus-adventure-map.html"
+  },
+  {
+    "sku":"MT-CY-ADV-SD-001",
+    "country":"Malta",
+    "map_format":"1:100k",
+    "provider":"Adventure Map",
+    "name":"Malta Adventure Map 1:25k",
+    "price":20.83,
+    "enabled":1,
+    "url_key":"https://satmap.com/malta-adventure-map-1-25k.html"
+  },
+  {
+    "sku":"SVN-CY-ADV-SD-001",
+    "country":"Slovenia",
+    "map_format":"1:100k",
+    "provider":"Adventure Map",
+    "name":"Slovenia (Whole) Adventure Map 1:25k",
+    "price":41.67,
+    "enabled":1,
+    "url_key":"https://satmap.com/slovenia-whole-adventure-map-1-25k.html"
+  },
+  {
+    "sku":"IRE-CY-ADV-SD-001",
+    "country":"Ireland",
+    "map_format":"1:100k",
+    "provider":"Adventure Map",
+    "name":"Ireland (Northern and Republic) Whole Adventure Map 1:25k",
+    "price":50,
+    "enabled":1,
+    "url_key":"https://satmap.com/ireland-northern-and-republic-whole-adventure-map-1-25k.html"
+  }
+]
