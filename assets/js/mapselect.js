@@ -1,5 +1,8 @@
 //MapSelect JS
 "use strict";
+var lat = 52;
+var long = -60;
+var scale = 350;
 var map = new Datamap({
     element: document.getElementById('map'),
     geographyConfig: {
@@ -89,19 +92,38 @@ var map = new Datamap({
     	},
     },
 
+
     setProjection: function(element) {
 	    var projection = d3.geo.equirectangular()
-	      .center([-35, 40.1015987])
-	      .scale(345)
-	      .translate([element.offsetWidth / 2, element.offsetHeight / 2]);
+	      .center([long, lat])
+	      .scale(scale)
+	      console.log("long: " + long + " and lat: " + lat);
 	    var path = d3.geo.path()
 	      .projection(projection);
 
 	    return {path: path, projection: projection};
 	},
 
+    movemap: function(geography){
+
+        $.ajax({
+            url: "../mapselect-d3/assets/shapefiles/centers.json",
+        }).done(function(centers) {
+            for(var key in centers){
+                if(centers[key].code == geography.id){
+                    lat = centers[key].latitude;
+                    long = centers[key].longitude;
+                    scale = 500;
+                    map.options.setProjection();
+                }
+            }
+
+           });
+    },
+
 	done: function(datamap) {
         datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) {
+            map.options.movemap(geography);
 
             if(geography.properties.name == "United Kingdom"){
                 geography.properties.name = "Great Britain";
@@ -120,7 +142,7 @@ var map = new Datamap({
                             if(data[i].country == geography.properties.name){
                                 itemcounter ++;
                                 $(".mapselect-quantity").html("There are " + itemcounter + " items for your selection");
-                                $(".mapselect-selectedcountry").append( "<tr> <div class='mapselect-item'> <td class='mapselect-product'> " + data[i].name + " </td> <td class='mapselect-price'>£ " + data[i].price + " </td> <td class='mapselect-countrylist'> " + data[i].country + " </td> <td class='mapselect-sku'> " + data[i].sku + " </td> <td class='mapselect-buy'> <a href='https://satmap.com/quickorder?skus=" + data[i].sku + "'>Buy Now!</a></td> </div> </tr>")
+                                $(".mapselect-selectedcountry").append( "<tr> <div class='mapselect-item'> <td class='mapselect-product'> " + data[i].name + " </td> <td class='mapselect-price'>£ " + (data[i].price + (data[i].price/5)) + " </td> <td class='mapselect-countrylist'> " + data[i].country + " </td> <td class='mapselect-sku'> " + data[i].sku + " </td> <td class='mapselect-buy'> <a href='https://satmap.com/quickorder?skus=" + data[i].sku + "'>Buy Now!</a></td> </div> </tr>")
 
                             //Unminified:
                             // "<tr>
