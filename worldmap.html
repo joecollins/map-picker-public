@@ -112,7 +112,8 @@ function draw(topo) {
 
 
   var country = g.selectAll(".country").data(topo);
-
+	
+// Drawing the country
   country.enter().insert("path")
       .attr("class", "country")
       .attr("d", path)
